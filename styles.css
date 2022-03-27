@@ -335,3 +335,14 @@ footer {
     padding-top: 15px;
 }
 
+.menu1 li:hover {
+    text-decoration: underline;
+}
+
+.mob_des_img {
+    display: none;
+}
+
+.mob_ill_img {
+    display: none;
+}
